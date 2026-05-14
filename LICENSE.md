@@ -1,4 +1,4 @@
-#  
+#  Enhance Ulysses for macOS with Ulysses for macOS secure Tool - voice notes and export to PDF, the #1 tool. Includes voice notes and export to PDF for a smoother experience.
 
 
 
